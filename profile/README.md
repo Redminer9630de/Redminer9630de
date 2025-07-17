@@ -9,7 +9,7 @@
 #### [TheAnonym3000](https://github.com/TheAnonym3000), Main Account
 <br>
 
-### Organisationes/Teams
+### Organisationen/Teams
 #### [Redminer9630](https://github.com/Redminer9630), Organisation
 #### Team9630, Main Team
 <br>
