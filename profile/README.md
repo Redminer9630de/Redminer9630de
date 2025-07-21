@@ -42,8 +42,12 @@
 #### Gamer, Streamer(Twitch), Youtuber
 <br>
 
+### Mickymaus
+#### Guckt Serien
+<br>
+
 ### ⭐ I'm watching you ⭐
 #### Discord Mod
 <br>
 
-### [Link zu allen Personen](https://redminer9630.ddns.net)
+### [Link zu allen Personen](https://redminer9630.ddns.net/linktree)
