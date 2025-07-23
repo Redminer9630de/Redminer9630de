@@ -50,4 +50,4 @@
 #### Discord Mod
 <br>
 
-### [Link zu allen Personen](https://redminer9630.ddns.net/linktree)
+### [Links zu den Personen](https://redminer9630.ddns.net/linktree)
