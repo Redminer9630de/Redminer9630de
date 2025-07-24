@@ -1,4 +1,12 @@
-*Falls du von der Organisations Main Page kommst, kannst du [hier zurück](https://github.com/Redminer9630)*
+# Offiziele Redminer9630 GitHub Orga
+
+## Offiziele Website: 
+
+[![redminer9630.ddns.net](https://github.com/Redminer9630/.github/profile/website.jpg)](https://redminer9630.ddns.net)
+
+[![Dazugehöriges Repository](https://github-readme-stats.vercel.app/api/pin/?username=Redminer9630&repo=Website)](https://github.com/Redminer9630/Website)
+
+<details><summary>Für mehr Infos über Redminer9630 klicken </summary>
 
 # Info über Redminer9630
 <br>
@@ -53,3 +61,4 @@
 <br>
 
 ### [Links zu den Personen](https://redminer9630.ddns.net/linktree)
+</details>
