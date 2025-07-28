@@ -1,10 +1,16 @@
-# Offiziele Redminer9630 GitHub Orga
+# Offizieler Redminer9630 Main Account
 
 ## Offiziele Website: 
 
 [![redminer9630.ddns.net](https://github.com/Redminer9630/.github/blob/main/profile/website.jpg)](https://redminer9630.ddns.net)
 
 [![Dazugehöriges Repository](https://github-readme-stats.vercel.app/api/pin/?username=Redminer9630&repo=Website)](https://github.com/Redminer9630/Website)
+
+## 📊 GitHub Stats und Trophäen
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redminer9630de&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redminer9630de&layout=compact&theme=radical)
+[![Trophäen](https://github-profile-trophy.vercel.app/?username=redminer9630de&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details><summary>Für mehr Infos über Redminer9630 klicken </summary>
 
