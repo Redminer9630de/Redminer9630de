@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Stats und Trophäen
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redminer9630de&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redminer9630de&layout=compact&theme=radical)
-![Trophäen](https://github-profile-trophy.vercel.app/?username=redminer9630de&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=redminer9630de&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redminer9630de&layout=compact&theme=radical)
+![Tropys](https://github-profile-trophy.vercel.app/?username=redminer9630de&theme=radical)
 
 <details><summary>Für mehr Infos über Redminer9630 klicken </summary>
 
