@@ -1,10 +1,12 @@
 # Offizieler Redminer9630 Main Account
 
-## Offiziele Website: 
+<details><summary>Preview und Repo von unserer Website</summary>
+<br>
 
 [![redminer9630.ddns.net](https://github.com/Redminer9630/.github/blob/main/profile/website.jpg)](https://redminer9630.ddns.net)
 
-[![Dazugehöriges Repository](https://github-readme-stats.vercel.app/api/pin/?username=Redminer9630&repo=Website)](https://github.com/Redminer9630/Website)
+[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Redminer9630&repo=Website)](https://github.com/Redminer9630/Website)
+</details>
 
 ## 📊 GitHub Stats und Trophäen
 
