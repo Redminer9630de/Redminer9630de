@@ -13,6 +13,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=redminer9630de)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redminer9630de)
 ![Tropys](https://github-profile-trophy.vercel.app/?username=redminer9630de)
+[![Holopin](https://holopin.me/redminer9630de)](https://holopin.io/@redminer9630de)
 
 <details><summary>Für mehr Infos über Redminer9630 klicken </summary>
 
