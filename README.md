@@ -1,4 +1,4 @@
-# Offizieler Redminer9630 Main Account
+# Redminer9630
 
 <details><summary>Preview und Repo von unserer Website</summary>
 <br>
